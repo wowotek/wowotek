@@ -98,7 +98,7 @@ A proud, educated muslim. Open Minded, I code, i pray, i play, i pray, i run, i 
 
 ### Affiliation
 <p align="center">Chief Technology Officer at</p>
-<p align="center"><img align="center" alt="dolano" src="dolanoid.png" width=250></p>
+<p align="center"><img align="center" alt="dolano" src="https://raw.githubusercontent.com/wowotek/wowotek/master/dolanoid.png" width=250></p>
 <hr>
 <p align="center">A Volunteer and a Student at</p>
 <p align="center">
