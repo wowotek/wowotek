@@ -9,7 +9,9 @@
 
 <p>love a little bit of everything! <large><i>Like Motorcycle Race!</i></large></p>
 
+<center>
 <img align="center" width="500px" alt="me guitaring" src="https://raw.githubusercontent.com/wowotek/wowotek/master/guitaring.png"/>
+</center>
 
 ### Techs
 <p align="left">I wouldn't say i am a developer, i like to enjoy live and enjoy everything. but github asked for it, so here it is !</p>
@@ -61,7 +63,9 @@
 
 ## About Me
 
+<center>
 <img alt="toppic" align="center" src="https://raw.githubusercontent.com/wowotek/wowotek/master/top_pic.jpg"/>
+</center>
 
 A proud, educated muslim. Open Minded, I code, i pray, i play, i pray, i run, i pray, i stay, i pray,. I'm not a developer who love to sit in front of computer in their little box. i love to explore internally or externally.
 
