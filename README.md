@@ -7,16 +7,13 @@
 </p>
 <p>Nice to meet ya! I'm Backend developer from 🇲🇨<b>Salatiga, Indonesia</b>.</p>
 
+<p>love a little bit of everything! <large><i>Like Motorcycle Race!</i></large></p>
 
-
-<p>love a little bit of everything! <large><i>Like Motorcycle Race!</i></large></p><marquee>🏍💨 Vroooom💨... Vroooom💨... vVrrroomm💨💨Vroooom💨💨 !!!</marquee>
-
-<img alt="toppic" src="https://raw.githubusercontent.com/wowotek/wowotek/master/top_pic.jpg"/>
-
-<marquee align="right" direction="right">!!! 💨💨moooorV💨💨mmoorrrVv ...💨moooorV ...💨moooorV 💨</marquee>
+<img alt="me guitaring" src="https://raw.githubusercontent.com/wowotek/wowotek/master/guitaring.png"/>
 
 ### Techs
 <p align="left">I wouldn't say i am a developer, i like to enjoy live and enjoy everything. but github asked for it, so here it is !</p>
+
 
 #### What I Use Daily
 <p>
@@ -64,6 +61,8 @@
 
 ## About Me
 
+<img alt="toppic" src="https://raw.githubusercontent.com/wowotek/wowotek/master/top_pic.jpg"/>
+
 A proud, educated muslim. Open Minded, I code, i pray, i play, i pray, i run, i pray, i stay, i pray,. I'm not a developer who love to sit in front of computer in their little box. i love to explore internally or externally.
 
 ### Game I Play(ed) Hard
@@ -74,7 +73,7 @@ A proud, educated muslim. Open Minded, I code, i pray, i play, i pray, i run, i 
             <td><p align="center"><img align="center" alt="csgo" src="https://1000logos.net/wp-content/uploads/2017/12/CSGO-Logo.png" width=200></p></td>
         </tr align="center">
         <tr align="center">
-            <td><p align="center"><img align="center" alt="minecraft" src="https://i.dlpng.com/static/png/6547543_preview.png" width=250></p></td>
+            <td><p align="center"><img align="center" alt="minecraft" src="https://www.minecraft.net/content/dam/games/minecraft/logos/logo-minecraft.svg" width=250></p></td>
             <td><p align="center"><img align="center" alt="gtav" src="https://www.igta5.com/images/gta-v-five-logo-v-only.png" width=125></p></td>
         </tr>
         <tr align="center">
@@ -87,20 +86,36 @@ A proud, educated muslim. Open Minded, I code, i pray, i play, i pray, i run, i 
 
 
 
-### Language i speak
+### Human Languages
 - Indonesian - Mother Tounge
 - Javanese - Speak Fluently
 - Sundanese - Speak and Write Fluently
-- Arabic - Speak and Write Fluently 
-- English - TOEFL iBT: **110**, TOEFL PBT: **601** (2015)
-- Hokkien - Daily Slang
-- Mandarin - Still Learning :D
+- English - TOEFL iBT: **110**, TOEFL PBT: **601** (2020)
+- Japanese - JLPT N5 (2023) - Speak and Write Daily
+- Arabic - Quran Reading
 
 ### Affiliation
-<p align="center">Chief Technology Officer at</p>
-<p align="center"><img align="center" alt="dolano" src="https://raw.githubusercontent.com/wowotek/wowotek/master/dolanoid.png" width=250></p>
+
+<table align="center" border="0" rules=none>
+    <tr align="center">
+        <td>
+            <p align="center">Chief Technology Officer at</p>
+            <p align="center"><img align="center" alt="dolano.id" src="https://raw.githubusercontent.com/wowotek/wowotek/master/dolanoid.png" width=250></p>
+        </td>
+        <td>
+            <p align="center">Chief Technology & Innovation Officer at</p>
+            <p align="center"><img align="center" alt="PT. Efektifika Informasi Lingkungan" src="https://raw.githubusercontent.com/wowotek/wowotek/master/efektifika.png" width=250></p>
+        </td>
+    </tr>
+</table>
+
 <hr>
 <p align="center">A Volunteer and a Student at</p>
 <p align="center">
 <img align="center" alt="nu" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Nahdlatul_Ulama_Logo.svg/1200px-Nahdlatul_Ulama_Logo.svg.png" width=250>
+</p>
+
+<p align="center">Co-Guitarist, Manager</p>
+<p align="center">
+<img align="center" alt="Shroom Eater" src="https://raw.githubusercontent.com/wowotek/wowotek/master/shroomeater.jpeg" width=250>
 </p>
