@@ -86,7 +86,7 @@ A proud, educated Muslim. Open Minded, I code, i pray, i play, i pray, i run, i 
             <td><p align="center"><img align="center" alt="csgo" src="https://1000logos.net/wp-content/uploads/2017/12/CSGO-Logo.png" width=200></p></td>
         </tr align="center">
         <tr align="center">
-            <td><p align="center"><img align="center" alt="minecraft" src="https://www.minecraft.net/content/dam/games/minecraft/logos/logo-minecraft.svg" width=250></p></td>
+            <td><p align="center"><img align="center" alt="minecraft" src="https://raw.githubusercontent.com/wowotek/wowotek/master/minecraft.png" width=250></p></td>
             <td><p align="center"><img align="center" alt="gtav" src="https://www.igta5.com/images/gta-v-five-logo-v-only.png" width=125></p></td>
         </tr>
         <tr align="center">
