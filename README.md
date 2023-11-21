@@ -5,7 +5,7 @@
   <a href="mailto:erlanggaibr2@gmail.com">Personal Email</a> •
   <a href="mailto:erlanggai@dolano.id">Business Email</a>
 </p>
-<p>Nice to meet ya! I'm Backend developer from 🇲🇨<b>Salatiga, Indonesia</b>.</p>
+<p>Nice to meet ya! I'm Backend developer from <b>Salatiga, Indonesia</b>.</p>
 
 <p>love a little bit of everything! <large><i>Like Progressive Metalcore</i></large></p>
 
