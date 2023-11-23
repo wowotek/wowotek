@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hello! I'm Wowotek! 👋</h2>
+<h2 align="center">👋 初めて！カイトといいます！よろしい～ 👋</h2>
 <p align="center">
   <a href="https://www.instagram.com/wowotekit">Instagram</a> •
   <a href="https://twitter.com/wo2tek">Twitter</a> •
